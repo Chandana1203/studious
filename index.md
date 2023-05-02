@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Studious
 ---
-
+    HI I am Chandana
